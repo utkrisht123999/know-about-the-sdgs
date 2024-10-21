@@ -1,12 +1,11 @@
-
 <html>
-<head>
+  <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale= 1.0">
 <title> Know about the sustainable development goals </title>
 </head>
 <body>
-<a href="https://output.jsbin.com/nixegixura">
+  <a href="https://output.jsbin.com/nixegixura">
 <img src="sdg1lol.jpg" alt="Clickable image (SDG1)" width="300" height="200">
 </a>
   <a href="https://output.jsbin.com/firerivage">
@@ -71,9 +70,12 @@
 
  <a href="https://utkrisht123999.github.io/sdg17/">
 <img src="sdg17.jpg" alt="Clickable image (SDG17)" width="300" height="200">
-</a>
+</a></body>
 
 
 
-</body>
+
+
+
 </html>
+
