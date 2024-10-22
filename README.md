@@ -5,7 +5,7 @@
 <title> Know about the sustainable development goals </title>
 </head>
 <body>
-  <a href="https://output.jsbin.com/nixegixura">
+  <a href="https://output.jsbin.com/nixegixura/nojs">
 <img src="sdg1lol.jpg" alt="Clickable image (SDG1)" width="300" height="200">
 </a>
   <a href="https://output.jsbin.com/firerivage">
