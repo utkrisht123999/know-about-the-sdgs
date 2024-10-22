@@ -70,12 +70,6 @@
 
  <a href="https://utkrisht123999.github.io/sdg17/">
 <img src="sdg17.jpg" alt="Clickable image (SDG17)" width="300" height="200">
-</a></body>
+</a>
 
-
-
-
-
-
-</html>
 
